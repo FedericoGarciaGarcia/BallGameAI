@@ -4,7 +4,7 @@ A Neural Network + Genetic Algorithm will be used to train a simple ball game AI
 
 # Game Description
 
-[![Gameplay](https://raw.githubusercontent.com/FedericoGarciaGarcia/BallGameAI/master/Resources/gameplay.gif)
+![Gameplay](https://raw.githubusercontent.com/FedericoGarciaGarcia/BallGameAI/master/Resources/gameplay.gif)
 
 * The game consists of two players and a ball in a room.
 * The user can control both players, only one at a time.
